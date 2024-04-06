@@ -1,3 +1,5 @@
+# All of this data was pulled from a database on Google Cloud titled bigquery-public-data.
+
 # ETL Project SQL Data Source Code
 
 # create database for SQL data source:
