@@ -1,3 +1,5 @@
+# All of this information is from henrygd's NCAA API found on his Github page.
+
 # NCAA API
 
 Free API to return consumable data from ncaa.com. Works with scores, stats, rankings, standings, schedules, and history.
